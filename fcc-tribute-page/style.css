@@ -1,0 +1,17 @@
+/* style.css */
+
+.body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header {
+    font-size: 42px;
+    margin: 25px;
+}
+
+.image {
+   max-width: 500px; 
+}
